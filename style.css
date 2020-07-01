@@ -1,0 +1,50 @@
+body{
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#half-div{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+section{
+    height: 500px;
+    padding-bottom: 65px;
+}
+#photo{
+    width: 30%;
+}
+p{
+    color: dimgray;
+}
+.button{
+    text-decoration: none;
+    background-image: linear-gradient(45deg,lightsalmon,tomato);
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+}
+#half-d{
+    width: 40%;
+    float: right;
+    margin-right: 5%;
+    padding-right: 2%;
+}
+#pho{
+    width: 25%;
+}
+#beauty{
+    color: blue;
+}
+.Extra{
+    width: 20%;
+    float: left;
+    margin-left: 3%;
+    padding-left: 2%;
+}
+#ex{
+    color: royalblue;
+    background: center;
+}
